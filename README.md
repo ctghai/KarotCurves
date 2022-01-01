@@ -1,2 +1,0 @@
-# KarotCurves
-# KarotCurves
