@@ -1,2 +1,2 @@
 # KarotCurves
-# KarotCurves mean hydropower data
+# KarotCurves show hydropower plant data
